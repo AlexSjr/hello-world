@@ -1,0 +1,24 @@
+From 3ab952786743e32eeae2cb16b9db20a44874ac6e Mon Sep 17 00:00:00 2001
+From: Alex Sandro Junior <alex.junior014@gmail.com>
+Date: Thu, 2 Jun 2016 03:45:00 -0300
+Subject: [PATCH] Adicionado Testando com H2 (reverted from commit
+ 8326db6a87e080918b9a9471f266897cf95ee2ea)
+
+---
+ index.html | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 2dcf705..d19e0d5 100644
+--- a/index.html
++++ b/index.html
+@@ -5,6 +5,5 @@
+   </head>
+   <body>
+     <h1>Testando 1 2 3</h1>
+-    <h2>Testando ABC</h2>
+   </body>
+ </html>
+-- 
+1.9.1
+
